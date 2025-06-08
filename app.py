@@ -684,6 +684,11 @@ async def query_knowledge_base(request: QueryRequest):
             content={"error": error_msg}
         )
 
+# Provide /api as a convenience alias for /query
+@app.post("/api")
+async def api_alias(request: QueryRequest):
+    return await query_knowledge_base(request)
+
 # Health check endpoint
 @app.get("/health")
 async def health_check():
