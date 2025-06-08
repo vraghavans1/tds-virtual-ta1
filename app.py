@@ -12,7 +12,7 @@ import aiohttp
 import asyncio
 import logging
 import base64
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, Response
 import uvicorn
 import traceback
 from dotenv import load_dotenv
@@ -688,6 +688,19 @@ async def query_knowledge_base(request: QueryRequest):
 @app.post("/api")
 async def api_alias(request: QueryRequest):
     return await query_knowledge_base(request)
+
+# Friendly message at the API root
+@app.get("/")
+async def root_message():
+    """Return basic usage instructions."""
+    return {
+        "message": "RAG Query API. Use POST /query or /api to submit questions and GET /health for status."
+    }
+
+# Browser requests a favicon by default. Return 204 to avoid log noise.
+@app.get("/favicon.ico")
+async def favicon():
+    return Response(status_code=204)
 
 # Health check endpoint
 @app.get("/health")

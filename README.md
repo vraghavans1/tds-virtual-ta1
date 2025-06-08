@@ -7,6 +7,7 @@ This project exposes a simple FastAPI application used to query a small knowledg
 - `POST /query` – main endpoint for asking questions.
 - `POST /api` – alias for `/query` (useful when clients expect `/api`).
 - `GET /health` – returns the state of the database and whether the API key is set.
+- `GET /` – returns a short message describing available endpoints.
 
 Requests are handled by `app.py` and the service reads from `knowledge_base.db`.
 Make sure to populate the database using `preprocess.py` before querying.
