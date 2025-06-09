@@ -1,0 +1,81 @@
+{
+  "id": 171485,
+  "title": "Project 1 discrepancy regarding mit license",
+  "slug": "project-1-discrepancy-regarding-mit-license",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 614077,
+        "post_number": 1,
+        "username": "22f3000585",
+        "created_at": "2025-04-01T05:16:56.562Z",
+        "like_count": 0,
+        "cooked": "Sir,\nThe License file is present in the github repository however i received a mail that said that it was absent.\nimage1145\u00d7673 33.8 KB\nimage633\u00d7336 7.1 KB\nSir I thought that the \u2018LICENSE\u2019 file had to be renamed to \u2018MIT LICENSE\u2019.\nCan you please look into it. Thankyou!"
+      },
+      {
+        "id": 614378,
+        "post_number": 3,
+        "username": "Jivraj",
+        "created_at": "2025-04-01T20:57:59.477Z",
+        "like_count": 0,
+        "cooked": "Hi @22f3000585\nStandard MIT License naming criteria is to be named as LICENSE or LICENSE.md(all caps).\nAdding a license to a repository - GitHub Docs\nKind regards"
+      },
+      {
+        "id": 614411,
+        "post_number": 4,
+        "username": "22f3000585",
+        "created_at": "2025-04-02T04:12:14.016Z",
+        "like_count": 0,
+        "cooked": "image931\u00d7108 3.89 KB\nSir, this is why i renamed it to \u2018MIT LICENSE\u2019.\nSir can you please consider it. Thank you!"
+      },
+      {
+        "id": 614549,
+        "post_number": 5,
+        "username": "24ds2000125",
+        "created_at": "2025-04-02T11:20:10.590Z",
+        "like_count": 0,
+        "cooked": "Same here. I also added and saved the file as MIT license because of the following message. I request you to please consider evaluating the project.\nScreenshot 2025-04-02 at 4.49.23 PM1776\u00d7228 15.5 KB"
+      },
+      {
+        "id": 614633,
+        "post_number": 6,
+        "username": "carlton",
+        "created_at": "2025-04-02T15:04:59.106Z",
+        "like_count": 0,
+        "cooked": "@24ds2000125 @22f3000585\nI completely appreciate that you feel these are minor issues.\nBut the team has decided that we cannot allow students to make changes to their repos. Because someone else might have another minor issue they want to fix. We have to apply the rule uniformly.\nUnfortunately we cannot allow submissions that fail the prerequisites.\nChanging it now will not suddenly make it eligible.\nThese things do matter when done at scale.  Its an important lesson Anand wants students to understand. These \u201cminor\u201d things matter.\nIts a bit like assembling a rocket and forgetting the checklist for the pilot. Minor detail, costs Rs 2, but the rocket cannot leave without it.\nWe had a significant discussion about it internally. For the sake of fairness to everyone who got it right, we cannot allow edits after the Project deadline. It makes the prerequisites meaningless, especially when it was clearly stressed upon in the sessions and the Project page.\nI know you will feel very disappointed but it is the decision the team has made and I have shared the reasons why.\nKindest regards"
+      },
+      {
+        "id": 614640,
+        "post_number": 7,
+        "username": "22f3000585",
+        "created_at": "2025-04-02T15:20:45.985Z",
+        "like_count": 0,
+        "cooked": "Sir,\nThankyou for your prompt reply to my query.\nI wanted to let you know that i had made change of \u2018LICENSE\u2019 to \u2018MIT LICENSE\u2019 on the 16th of Feb itself as that was the day that i had received the mail and because I saw that the submission date had been extended by one day(i.e the 16th of Feb itself).\nI completely understand what you are trying to convey but that was the sole reason i made that change on the 16th.\nI completely respect your decision but if there is even a slight possibility that you consider it (only because I did it on the 16th) I would highly appreciate it.\nThankyou!"
+      },
+      {
+        "id": 614651,
+        "post_number": 8,
+        "username": "carlton",
+        "created_at": "2025-04-02T15:55:00.653Z",
+        "like_count": 0,
+        "cooked": "One thing we are doing is looking at the latest commit before the 18th of Feb. So if it was correct before the 18th of Feb then we will consider it and evaluate it, but it has to be precisely what is expected. If so, then your submission will be evaluated by building the image from the docker manifest in the github present at the version before the 18th."
+      },
+      {
+        "id": 614658,
+        "post_number": 9,
+        "username": "22f3000585",
+        "created_at": "2025-04-02T16:02:57.956Z",
+        "like_count": 0,
+        "cooked": "Well noted sir. Thanks a lot!"
+      },
+      {
+        "id": 616121,
+        "post_number": 10,
+        "username": "22f3000585",
+        "created_at": "2025-04-06T13:59:53.894Z",
+        "like_count": 0,
+        "cooked": "Sir, I received the mail today -\nimage652\u00d7156 5.43 KB\nSir, I had already added the LICENSE and changed it to\u2019MIT LICENSE\u2019 due to this reason before the deadline itself.\nimage836\u00d7101 18.2 KB\nSir,the rest of my prerequistes are working well.Can you please check as due to this my project has also not been evaluated.The MIT LICENSE file was already present in the github repo as I submitted my project\u2019s github repo in the google form that was provided.\nimage1113\u00d7487 20.2 KB\nSir can you please check.\nThankyou"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 166634,
+  "title": "Doubt in GA4 Q7",
+  "slug": "doubt-in-ga4-q7",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 592585,
+        "post_number": 1,
+        "username": "Sakshi6479",
+        "created_at": "2025-02-09T12:11:34.989Z",
+        "like_count": 0,
+        "cooked": "Sir,\nI am not able to understand how to solve Q7 in GA4. kindly guide me how to solve this question or provide some tutorial video to complete it.\nAs the deadline is of today please provide the tutorial video for this question soon.\n@Saransh_Saini , @Jivraj , @carlton"
+      },
+      {
+        "id": 592816,
+        "post_number": 2,
+        "username": "21f3000745",
+        "created_at": "2025-02-09T15:17:40.710Z",
+        "like_count": 0,
+        "cooked": "Just create the url with query parameters city and followers."
+      },
+      {
+        "id": 592972,
+        "post_number": 3,
+        "username": "Sakshi6479",
+        "created_at": "2025-02-09T16:30:09.582Z",
+        "like_count": 0,
+        "cooked": "Can you please elaborate a little bit what should be the steps ?"
+      },
+      {
+        "id": 592990,
+        "post_number": 4,
+        "username": "23f1001301",
+        "created_at": "2025-02-09T16:40:15.128Z",
+        "like_count": 0,
+        "cooked": "Connect to the GitHub API-  it lets you fetch user data automatically(go to github developer settings ->personal acceess tokens->tokens(classic)\nSearch for Users with criteria mentioned in your question\nWe organize the list from newest to oldest, making it easy to spot the freshest account."
+      },
+      {
+        "id": 593003,
+        "post_number": 5,
+        "username": "Sakshi6479",
+        "created_at": "2025-02-09T16:45:10.685Z",
+        "like_count": 0,
+        "cooked": "Ok thank you for the help."
+      },
+      {
+        "id": 593026,
+        "post_number": 6,
+        "username": "Saransh_Saini",
+        "created_at": "2025-02-09T16:54:46.677Z",
+        "like_count": 0,
+        "cooked": "Hi Sakshi,\nIt seems you have already got your answers. Kindly mark the solution these two people have given, so that anyone facing the same issue would be able to get to it easily."
+      },
+      {
+        "id": 593223,
+        "post_number": 7,
+        "username": "Sakshi6479",
+        "created_at": "2025-02-09T18:11:45.716Z",
+        "like_count": 0,
+        "cooked": "Sir I am having trouble in q8 also whenever I am pushing commit in git hub it was showing in GitHub repository but it is not working in git hub actions.\n173912467233449595293011525167201920\u00d71440 174 KB"
+      },
+      {
+        "id": 593227,
+        "post_number": 8,
+        "username": "Sakshi6479",
+        "created_at": "2025-02-09T18:12:58.595Z",
+        "like_count": 0,
+        "cooked": "173912475848943145994464774695661920\u00d71440 170 KB\nIt is working in repo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": 167344,
+  "title": "Project 1 - Casual banter",
+  "slug": "project-1-casual-banter",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 595549,
+        "post_number": 1,
+        "username": "TheVishal",
+        "created_at": "2025-02-15T16:55:08.372Z",
+        "like_count": 0,
+        "cooked": "@s.anand @carlton @Jivraj\nPlease extend the deadline please.\n88394c0c2e80a1326cfffe020684be4a480\u00d7270 10.3 KB"
+      },
+      {
+        "id": 595551,
+        "post_number": 2,
+        "username": "carlton",
+        "created_at": "2025-02-15T16:56:02.051Z",
+        "like_count": 0,
+        "cooked": "Done \nKind regards\nCant say no to a fuzzy wuzzy cat "
+      },
+      {
+        "id": 595552,
+        "post_number": 3,
+        "username": "AyushTiwari",
+        "created_at": "2025-02-15T16:59:12.129Z",
+        "like_count": 0,
+        "cooked": "Thank you very much you do not know but your 1 reply made my heart feels good\n(literally)"
+      },
+      {
+        "id": 595553,
+        "post_number": 4,
+        "username": "Rishabh2",
+        "created_at": "2025-02-15T16:59:38.060Z",
+        "like_count": 0,
+        "cooked": "What\u2019s the new date sir"
+      },
+      {
+        "id": 595554,
+        "post_number": 5,
+        "username": "22f3000639",
+        "created_at": "2025-02-15T16:59:47.595Z",
+        "like_count": 0,
+        "cooked": "Now I can definitely say that a cat saved me today."
+      },
+      {
+        "id": 595556,
+        "post_number": 6,
+        "username": "23f1002382",
+        "created_at": "2025-02-15T17:00:50.465Z",
+        "like_count": 0,
+        "cooked": "??? You are joking? BUT really maybe 11:59 + 2 hours "
+      },
+      {
+        "id": 595559,
+        "post_number": 7,
+        "username": "AyushTiwari",
+        "created_at": "2025-02-15T17:03:30.032Z",
+        "like_count": 0,
+        "cooked": "This project is due on 16 Feb 2025 EoD IST. Results will be announced by 26 Feb 2025."
+      },
+      {
+        "id": 595562,
+        "post_number": 8,
+        "username": "carlton",
+        "created_at": "2025-02-15T17:04:20.111Z",
+        "like_count": 0,
+        "cooked": "Sunday 16/02/2025 23:59 IST"
+      },
+      {
+        "id": 595566,
+        "post_number": 10,
+        "username": "23f2003751",
+        "created_at": "2025-02-15T17:07:57.722Z",
+        "like_count": 0,
+        "cooked": "bro is obsessed with this  "
+      },
+      {
+        "id": 595662,
+        "post_number": 11,
+        "username": "23f3004114",
+        "created_at": "2025-02-15T18:34:57.076Z",
+        "like_count": 0,
+        "cooked": "reading this at 12:01 after submitting A1 to A7 .  okay sleeping now. lets see if what i can finish tomorrow."
+      },
+      {
+        "id": 595688,
+        "post_number": 12,
+        "username": "rohitgarg",
+        "created_at": "2025-02-15T20:20:01.955Z",
+        "like_count": 0,
+        "cooked": "yes Ayush, you mentioned about your heart and liver problems.\nits necessary that your heart feels good\n(just kidding bro )"
+      },
+      {
+        "id": 596171,
+        "post_number": 13,
+        "username": "namanshyamsukha",
+        "created_at": "2025-02-16T18:50:57.362Z",
+        "like_count": 0,
+        "cooked": "It is good that the practical elements are core in the course though more time should be given for balanced approach between projects and graded assignments.\nThere were some issues I faced. For example, the GitHub link of the datagen.py was incorrect and I was confused due to the code not generating the expected outcome.\nThe LLM was giving creative answers which did not follow the strict evaluation guidelines. So, the case was not passed. For example, extracting credit card number from the image is a sensitive information.\nI am alright with it since the evaluation will be different.\nNow, I am really well versed with the tools taught in these weeks. Thanking the whole TDS Team for this project which was very well designed. "
+      },
+      {
+        "id": 596990,
+        "post_number": 14,
+        "username": "Jivraj",
+        "created_at": "2025-02-19T11:01:00.149Z",
+        "like_count": 0,
+        "cooked": "A post was split to a new topic: Just some background test"
+      }
+    ]
+  }
+}

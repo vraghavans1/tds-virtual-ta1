@@ -1,0 +1,41 @@
+{
+  "id": 171525,
+  "title": "Clarification on API Endpoint Correction in Submission",
+  "slug": "clarification-on-api-endpoint-correction-in-submission",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 614298,
+        "post_number": 1,
+        "username": "23f2005702",
+        "created_at": "2025-04-01T15:09:38.084Z",
+        "like_count": 0,
+        "cooked": "@s.anand @carlton @Saransh_Saini @Jivraj\nI submitted the form before the deadline with the API endpoint as /api, but I later realized the correct format was /api/ (with a trailing slash). To fix this, I edited the Google Form today.\nWill this cause any issues with the submission? Please let me know if any further action is needed."
+      },
+      {
+        "id": 614557,
+        "post_number": 2,
+        "username": "21f2000709",
+        "created_at": "2025-04-02T11:52:04.861Z",
+        "like_count": 0,
+        "cooked": "It is not like that, it can be any endpoint, but whatever you submit should work. Like many frameworks treat /api/ and /api differently.\nThe project 2 docs assumes that the endpoint is /api/ and provides the code accordingly."
+      },
+      {
+        "id": 614567,
+        "post_number": 3,
+        "username": "23f2005702",
+        "created_at": "2025-04-02T12:04:08.373Z",
+        "like_count": 0,
+        "cooked": "you are right but if I use postman with /api end point it wont work but with /api/ it will work so.."
+      },
+      {
+        "id": 615017,
+        "post_number": 4,
+        "username": "23f2005702",
+        "created_at": "2025-04-03T14:38:39.579Z",
+        "like_count": 0,
+        "cooked": "@Saransh_Saini\nHere is the tag\nAnd roll number  of people in collaboration with our project\n21f3001076@ds.study.iitm.ac.in\n23f2005702@ds.study.iitm.ac.in\n23f2004637@ds.study.iitm.ac.in\n23f2005702@ds.study.iitm.ac.in"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": 166576,
+  "title": "GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]",
+  "slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 592179,
+        "post_number": 1,
+        "username": "s.anand",
+        "created_at": "2025-02-08T14:39:41.571Z",
+        "like_count": 0,
+        "cooked": "Please post any questions related to Graded Assignment 5 - Data Preparation.\nPlease use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\nDeadline:  2025-02-15T18:30:00Z\n@Jivraj @Saransh_Saini @carlton"
+      },
+      {
+        "id": 592180,
+        "post_number": 2,
+        "username": "s.anand",
+        "created_at": "2025-02-08T14:40:01.609Z",
+        "like_count": 0,
+        "cooked": ""
+      },
+      {
+        "id": 593372,
+        "post_number": 3,
+        "username": "23f1002630",
+        "created_at": "2025-02-10T06:17:22.155Z",
+        "like_count": 0,
+        "cooked": "image1448\u00d7623 16.3 KB\ni can\u2019t load my questions"
+      },
+      {
+        "id": 593409,
+        "post_number": 4,
+        "username": "s.anand",
+        "created_at": "2025-02-10T07:29:12.849Z",
+        "like_count": 0,
+        "cooked": "@23f1002630 - thanks for raising this. It\u2019s fixed and won\u2019t re-occur for anyone.\nWhat happened? I picked random duration from the video of 10-40 seconds, but forgot to ensure that the end time should not exceed the video length. That\u2019s what I fixed."
+      },
+      {
+        "id": 593506,
+        "post_number": 5,
+        "username": "23f1002630",
+        "created_at": "2025-02-10T11:25:56.044Z",
+        "like_count": 0,
+        "cooked": "image1158\u00d7466 11.8 KB\nIt was solved but again I\u2019m facing the same issue"
+      },
+      {
+        "id": 593671,
+        "post_number": 6,
+        "username": "23f1002630",
+        "created_at": "2025-02-10T18:54:19.804Z",
+        "like_count": 0,
+        "cooked": "@s.anand @Jivraj  I\u2019m still facing the issue."
+      },
+      {
+        "id": 593896,
+        "post_number": 7,
+        "username": "nilaychugh",
+        "created_at": "2025-02-11T16:21:34.546Z",
+        "like_count": 0,
+        "cooked": "i guess there\u2019s some issue in 5th question as i have correctly filtered the data in OpenRefine 2-3 times but still getting incorrect in the portal."
+      },
+      {
+        "id": 594108,
+        "post_number": 8,
+        "username": "carlton",
+        "created_at": "2025-02-12T12:52:01.867Z",
+        "like_count": 0,
+        "cooked": "OpenRefine question has historically been a tricky question to get right. Check out some past TA sessions in previous term for solving it, or previous discourse posts.\nKind regards"
+      },
+      {
+        "id": 594381,
+        "post_number": 9,
+        "username": "22f3001315",
+        "created_at": "2025-02-13T08:51:51.360Z",
+        "like_count": 0,
+        "cooked": "DOUBT IN -Q 9 Sir @carlton\nMiranda followed the elusive figure.  In the dim corridor,......................\n\nI listened it ,every words and spellings are matching still this error:\nError: Words are too different"
+      },
+      {
+        "id": 594585,
+        "post_number": 10,
+        "username": "Nelson",
+        "created_at": "2025-02-13T13:56:56.738Z",
+        "like_count": 0,
+        "cooked": "Cleaning Data with OpenRefine\nKindly check the question and the answer. I found below cities for S\u00e3o Paulo.\nHowever, it says my answer is incorrect.\n\nHow many units of Bacon were sold in S\u00e3o Paulo on transactions with at least 151 units?\n\ncity\nSao Paolo\nSao Paoulo\nSao Paulo\nSao Pualo\nSau Paulo\nS\u00e3o Paulo\n\n\nimage318\u00d7183 5.46 KB"
+      },
+      {
+        "id": 595055,
+        "post_number": 11,
+        "username": "23f1003186",
+        "created_at": "2025-02-14T16:15:42.519Z",
+        "like_count": 0,
+        "cooked": "Wrong / Confusing question Prof\nThe top line mentions \u201cSaturdays\u201d whereas the bottom line mentions \u201cSundays\u201d\nPlease clarify \u201cSUNDAY\u201d or \u201cSATURDAY\u201d?\ngrab-IIT-Madras--Microsoft Edge_at_21.44.39_on__14-02-2025__0032531920\u00d71816 271 KB"
+      },
+      {
+        "id": 595057,
+        "post_number": 12,
+        "username": "23f1003186",
+        "created_at": "2025-02-14T16:19:36.462Z",
+        "like_count": 0,
+        "cooked": "Update: I tried for both (thank god for filters in Excel) and Sunday is what the question is asking for. The Instruction above for \u201cSaturday\u201d is incorrect- maybe the logic generating different questions for different students can be tweaked-\nThank you"
+      },
+      {
+        "id": 595100,
+        "post_number": 13,
+        "username": "23f1003186",
+        "created_at": "2025-02-14T17:47:55.912Z",
+        "like_count": 0,
+        "cooked": "I\u2019ve attempted this question several times and I\u2019m fairly certain that the answer to this question is incorrect. I\u2019d be grateful if the answer to this question was re-checked. I can share the answer I\u2019m certain about here, however I do not think it would be prudent to do so given this is a public forum.\nPlease consider my request and double check-\n@Jivraj, @carlton\nThank you\ngrab-IIT-Madras--Microsoft Edge_at_23.15.25_on__14-02-2025__0032551920\u00d71317 210 KB"
+      },
+      {
+        "id": 595527,
+        "post_number": 14,
+        "username": "23f2003717",
+        "created_at": "2025-02-15T16:24:23.831Z",
+        "like_count": 0,
+        "cooked": "image817\u00d7458 29.3 KB\nthis is my data before date filter - for question 1 please conform am i doing correct. and tell how to do the date filtering as some are in mm-dd-yyyy or yyyy-mm-dd format.\nas this data is less i did it manually\n\n\n\n\nSUM OF COST\n14891.00\n\n\n\n\nSUM OF SALES\n31004.00\n\n\nTOTAL\n45895.00\n\n\nTOTAL MARGIN\n0.351083996\n\n\n\nbut this is not correct please guide"
+      },
+      {
+        "id": 595540,
+        "post_number": 15,
+        "username": "s.anand",
+        "created_at": "2025-02-15T16:45:07.123Z",
+        "like_count": 0,
+        "cooked": "@23f1003186 \u2013 thanks for flagging this. You\u2019re right. I\u2019ve fixed this error. "
+      },
+      {
+        "id": 595564,
+        "post_number": 16,
+        "username": "23f1003186",
+        "created_at": "2025-02-15T17:05:24.887Z",
+        "like_count": 0,
+        "cooked": "Any signal for this question?\n@s.anand @carlton"
+      },
+      {
+        "id": 595571,
+        "post_number": 17,
+        "username": "s.anand",
+        "created_at": "2025-02-15T17:13:23.480Z",
+        "like_count": 0,
+        "cooked": "@23f1003186 thanks again for flagging this. This is fixed, too. "
+      },
+      {
+        "id": 595576,
+        "post_number": 18,
+        "username": "23f2003717",
+        "created_at": "2025-02-15T17:19:27.591Z",
+        "like_count": 0,
+        "cooked": "tried google sheets - it autoformatted my date data, also i realized later i was applying the formula the wrong way.\nimage987\u00d7176 14.4 KB\nDate formatted and filtered successfully"
+      },
+      {
+        "id": 595702,
+        "post_number": 19,
+        "username": "23f2004752",
+        "created_at": "2025-02-15T23:22:12.712Z",
+        "like_count": 0,
+        "cooked": "Can you provide the link for that session."
+      },
+      {
+        "id": 595747,
+        "post_number": 20,
+        "username": "23f2003717",
+        "created_at": "2025-02-16T04:42:44.483Z",
+        "like_count": 0,
+        "cooked": "image441\u00d7323 4.22 KB\nHow many units of Computer were sold in London on transactions with at least 39 units?\nplease check my answer is not correct - (6193)\nplease guide"
+      }
+    ]
+  }
+}

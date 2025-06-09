@@ -1,0 +1,25 @@
+{
+  "id": 169456,
+  "title": "Live session recorded or not",
+  "slug": "live-session-recorded-or-not",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 604739,
+        "post_number": 1,
+        "username": "23f3003871",
+        "created_at": "2025-03-09T06:43:37.176Z",
+        "like_count": 0,
+        "cooked": "Please sir was the Thursday session recorded? If yes, it is not on the Youtube channel. Please provide the lecture in the Youtube, I missed that lecture. please reply me sir ."
+      },
+      {
+        "id": 605774,
+        "post_number": 2,
+        "username": "Jivraj",
+        "created_at": "2025-03-11T22:38:03.924Z",
+        "like_count": 0,
+        "cooked": ""
+      }
+    ]
+  }
+}

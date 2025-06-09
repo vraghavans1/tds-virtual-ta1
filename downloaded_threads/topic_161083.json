@@ -1,0 +1,169 @@
+{
+  "id": 161083,
+  "title": "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]",
+  "slug": "ga1-development-tools-discussion-thread-tds-jan-2025",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 575342,
+        "post_number": 1,
+        "username": "s.anand",
+        "created_at": "2025-01-02T02:30:03.720Z",
+        "like_count": 0,
+        "cooked": "Please post any questions related to Graded Assignment 1 - Development Tools.\n\nImportant Instruction\nPlease use markdown code formatting (fenced code blocks) when sharing code in Discourse posts. This makes the code much easier to read and differentiate from non-code text. It also makes it easier for people to copy code snippets and run it themselves. Visit this link for more details: Extended Syntax | Markdown Guide.\nA friendly suggestion: kindly go through Discourse Docs! \n\nDeadline: 26 Jan 2025, midnight IST\n@carlton @Jivraj Please keep an eye on this thread for support."
+      },
+      {
+        "id": 575344,
+        "post_number": 2,
+        "username": "s.anand",
+        "created_at": "2025-01-02T02:46:01.490Z",
+        "like_count": 0,
+        "cooked": ""
+      },
+      {
+        "id": 575782,
+        "post_number": 3,
+        "username": "21f2000370",
+        "created_at": "2025-01-05T04:01:42.024Z",
+        "like_count": 0,
+        "cooked": "image1296\u00d7158 7.29 KB\nFor question 16 of GA1, It says \"Rename all files replacing each digit with the next \"\nAccepted answer is working only if file names are renamed as\n2h3q9x.txt \u2192 3h4q0x.txt\neb209nmlca.txt \u2192 eb310nmlca.txt\nThat means if digit is 9 then next digit should be 0. @carlton @Jivraj let me know if this is what is expected. since 9->10 or 209 \u2192 210 is not working"
+      },
+      {
+        "id": 575795,
+        "post_number": 4,
+        "username": "Jivraj",
+        "created_at": "2025-01-05T05:50:28.537Z",
+        "like_count": 0,
+        "cooked": "Hi anant,\nQuestion mentions every digit should be replaced by next one.\nIn that case 209 would get replaced by 310"
+      },
+      {
+        "id": 575815,
+        "post_number": 5,
+        "username": "21f2000370",
+        "created_at": "2025-01-05T07:56:17.410Z",
+        "like_count": 0,
+        "cooked": "Hello Sir, When I am following that logic to rename files, assessment check is giving error \u201cIncorrect. Try again.\u201d"
+      },
+      {
+        "id": 576111,
+        "post_number": 6,
+        "username": "carlton",
+        "created_at": "2025-01-08T03:45:23.020Z",
+        "like_count": 0,
+        "cooked": "@21f2000370 Since you have managed to get all the answers correct, I presume there are no further issues w/ Q16."
+      },
+      {
+        "id": 576239,
+        "post_number": 7,
+        "username": "23f2003790",
+        "created_at": "2025-01-09T07:32:49.658Z",
+        "like_count": 0,
+        "cooked": "Hi, I am unable to access Graded Assignment 1. Every time I click on the given link, all I can see is this page. Please advise.\ntdsga11902\u00d7919 31.1 KB"
+      },
+      {
+        "id": 576242,
+        "post_number": 8,
+        "username": "Jivraj",
+        "created_at": "2025-01-09T08:21:13.611Z",
+        "like_count": 0,
+        "cooked": "Possible reasons for this issue.\n\nDisable/remove Ad blocker\nDisable/remove Tracking blocker (Allow third party cookies)\nUse Chrome browser\nDisable Browser extensions\n"
+      },
+      {
+        "id": 577689,
+        "post_number": 12,
+        "username": "21f2000370",
+        "created_at": "2025-01-11T08:15:14.939Z",
+        "like_count": 0,
+        "cooked": "As I highlighted earlier, Its not accepting the answer  if I follow correct logic for renaming for example 209->210, but it is accepting if rename as 209->310"
+      },
+      {
+        "id": 577736,
+        "post_number": 13,
+        "username": "Jivraj",
+        "created_at": "2025-01-11T09:03:17.493Z",
+        "like_count": 0,
+        "cooked": "Hi Anant,\n\n\n\n 21f2000370:\n\nimage1296\u00d7158 7.29 KB\n\n\nHere in question, it\u2019s mentioned to replace every digit with next digit, that\u2019s why 209 would be 310."
+      },
+      {
+        "id": 577946,
+        "post_number": 14,
+        "username": "23f1002698",
+        "created_at": "2025-01-11T14:56:07.023Z",
+        "like_count": 0,
+        "cooked": "In attempting the third question, I\u2019m unable to download the npm package as it requires docker. When trying to install docker from the installer, it freezes in the verifying package stage. Can somebody please help solve my problem?\n@carlton @Jivraj"
+      },
+      {
+        "id": 577949,
+        "post_number": 15,
+        "username": "23f1002630",
+        "created_at": "2025-01-11T15:48:35.599Z",
+        "like_count": 0,
+        "cooked": "image1627\u00d7202 12.6 KB\nWhich HTML content we want to take?"
+      },
+      {
+        "id": 577987,
+        "post_number": 17,
+        "username": "carlton",
+        "created_at": "2025-01-11T17:45:23.526Z",
+        "like_count": 0,
+        "cooked": "Hi Suhani,\nnpm does not require docker.\nKind regards"
+      },
+      {
+        "id": 577990,
+        "post_number": 18,
+        "username": "carlton",
+        "created_at": "2025-01-11T17:48:02.553Z",
+        "like_count": 0,
+        "cooked": "Hi Hisham,\nIts described in the question. There is a hidden element hiding somewhere after that question. You would have to inspect the DOM to find it."
+      },
+      {
+        "id": 577991,
+        "post_number": 19,
+        "username": "23F300327",
+        "created_at": "2025-01-11T17:02:23.063Z",
+        "like_count": 0,
+        "cooked": "Screenshot 2025-01-11 at 10.29.41 PM1440\u00d7900 160 KB\n@s.anand  please guide me through this question, my answer is showing incorrect"
+      },
+      {
+        "id": 578158,
+        "post_number": 20,
+        "username": "21f3001993",
+        "created_at": "2025-01-12T07:45:04.116Z",
+        "like_count": 0,
+        "cooked": "Hello Sir. I am unable to install uv in my windows system. Whenever I run the code provided at the reference link in Powershell, my anti-virus system sends a message that it was blocked. Even after blocking Real-time security, uv does not display. What am I doing wrong?"
+      },
+      {
+        "id": 578520,
+        "post_number": 21,
+        "username": "Samra",
+        "created_at": "2025-01-12T11:13:59.536Z",
+        "like_count": 0,
+        "cooked": "Hi, I\u2019m unable to view assignments. below is the screenshot for your reference.\nScreenshot 2025-01-12 150511963\u00d7632 14.5 KB\nPlease suggest me a way to view it. I have allowed third-party cookies as well.\nThanks"
+      },
+      {
+        "id": 578991,
+        "post_number": 23,
+        "username": "Jivraj",
+        "created_at": "2025-01-12T21:29:25.964Z",
+        "like_count": 0,
+        "cooked": "Hi manmeet,\nI don\u2019t know about solution to this.\nSome network setting might be causing problem.\nAlternatively you can make use of GitHub codespaces which provides 120 hours of free run time in a month. With GitHub codespaces you can use Ubuntu os, and visually it gives you feel of vs code. You can also active your GitHub student developer pack and get 180 hours of GitHub codespaces and some more benefits such as cloud resources and domains.\nI have done all questions of week1 and week2 on codespaces only, codespaces works very well if you have good internet connection."
+      },
+      {
+        "id": 578993,
+        "post_number": 24,
+        "username": "Jivraj",
+        "created_at": "2025-01-12T21:32:38.881Z",
+        "like_count": 0,
+        "cooked": "Hi samra,\nTry installing some other browser see if that works."
+      },
+      {
+        "id": 578994,
+        "post_number": 25,
+        "username": "Jivraj",
+        "created_at": "2025-01-12T21:34:19.477Z",
+        "like_count": 0,
+        "cooked": "Hi mishkat,\nWithout sharing code, can you pls share your approach how you are trying to solve this question."
+      }
+    ]
+  }
+}

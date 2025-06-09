@@ -1,0 +1,17 @@
+{
+  "id": 165830,
+  "title": "Live Session Agenda - 30/01/2025",
+  "slug": "live-session-agenda-30-01-2025",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 587806,
+        "post_number": 1,
+        "username": "carlton",
+        "created_at": "2025-01-30T09:31:29.813Z",
+        "like_count": 0,
+        "cooked": "Hi All,\nThe agenda items for the live session 30/01/2025 are:\n\nWhat is Rest API?\nThe FAST API library\nBasic Intro to CORS\nCreating JSON schema\nFunction calling\n\nGMeet: \nJoin with Google Meet\nmeet.google.com/brz-ksac-evo\nKind regards,\nTDS Team"
+      }
+    ]
+  }
+}

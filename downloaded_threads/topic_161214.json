@@ -1,0 +1,49 @@
+{
+  "id": 161214,
+  "title": "Contribute to My Open-Source LLM Classroom Assignment Evaluator",
+  "slug": "contribute-to-my-open-source-llm-classroom-assignment-evaluator",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 576033,
+        "post_number": 1,
+        "username": "22f3001914",
+        "created_at": "2025-01-06T20:00:14.908Z",
+        "like_count": 0,
+        "cooked": "Dear all,\nI\u2019m thrilled to share a project inspired by my experience in the *Tools in Data Science * course: LLM Classroom Assignment Evaluator.  This is the basic prototype.\nThis tool leverages Google APIs and LLMs to automate grading and feedback for Google Classroom assignments, making evaluation faster and more insightful for educators.\nA heartfelt thanks to @s.anand, our course instructor, and TAs @Carlton and @Jivraj, whose guidance on LLM function calling and real-world applications made this project possible.\nI\u2019d love to invite contributions from this amazing community to:\n\nExpand functionality and evaluation models.\nFix bugs and optimize workflows.\nImprove documentation for broader accessibility.\n\nThe GitHub repository is open for forks, pull requests, and ideas. I look forward to collaborating with you all!\nUpdate: here is a video explaining the process - https://youtu.be/xa4zhP-S3NE?feature=shared\nBest regards,\nAvinash Shrivastava"
+      },
+      {
+        "id": 576109,
+        "post_number": 2,
+        "username": "carlton",
+        "created_at": "2025-01-08T03:02:45.940Z",
+        "like_count": 0,
+        "cooked": "Hi Avinash,\nThats great work! I am glad you were able to use what you learnt from the course for something so practical. I hope you continue to develop and refine it, take feedback from the stakeholders who would be interested in this approach. I see a lot of potential in this project.\nKind regards"
+      },
+      {
+        "id": 576146,
+        "post_number": 3,
+        "username": "22f3001914",
+        "created_at": "2025-01-08T11:58:30.974Z",
+        "like_count": 0,
+        "cooked": "Thanks @carlton  I would definitely refine it."
+      },
+      {
+        "id": 576220,
+        "post_number": 4,
+        "username": "s.anand",
+        "created_at": "2025-01-09T05:05:50.620Z",
+        "like_count": 0,
+        "cooked": "Testing\u2026 please ignore"
+      },
+      {
+        "id": 576221,
+        "post_number": 5,
+        "username": "s.anand",
+        "created_at": "2025-01-09T05:07:09.977Z",
+        "like_count": 0,
+        "cooked": ""
+      }
+    ]
+  }
+}
