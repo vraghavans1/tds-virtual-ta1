@@ -1,0 +1,25 @@
+{
+  "id": 172373,
+  "title": "PYQ doubt",
+  "slug": "pyq-doubt",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 617911,
+        "post_number": 1,
+        "username": "24f1001616",
+        "created_at": "2025-04-10T14:21:56.393Z",
+        "like_count": 0,
+        "cooked": "image1141\u00d7678 102 KB\n@carlton sir plz review it\ni think the correct answer should be A"
+      },
+      {
+        "id": 617921,
+        "post_number": 2,
+        "username": "carlton",
+        "created_at": "2025-04-10T14:50:28.002Z",
+        "like_count": 0,
+        "cooked": "yes saturday is 5 when using weekday ()"
+      }
+    ]
+  }
+}

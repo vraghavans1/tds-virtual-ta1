@@ -1,0 +1,49 @@
+{
+  "id": 167415,
+  "title": "IMPORTANT: Dockerfile submitted as dockerfile rest everything is working fine",
+  "slug": "important-dockerfile-submitted-as-dockerfile-rest-everything-is-working-fine",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 596106,
+        "post_number": 1,
+        "username": "nayonika",
+        "created_at": "2025-02-16T15:34:00.030Z",
+        "like_count": 0,
+        "cooked": "@carlton @Jivraj @Saransh_Saini\nI got a mail saying my Dockerfile is missing. However I have a dockerfile already in my github repository. Is it an issue with the spelling of dockerfile since I have submitted it in all small case as \u2018dockerfile\u2019. It was showing the score when I checked with the evaluate.py that was provided by iitm.\nShall I just change the name of the file from \u2018dockerfile\u2019 to \u2018Dockerfile\u2019 in github repository of mine or is there anything else that is needed to detect the Dockerfile?"
+      },
+      {
+        "id": 596126,
+        "post_number": 2,
+        "username": "Saransh_Saini",
+        "created_at": "2025-02-16T16:22:25.231Z",
+        "like_count": 0,
+        "cooked": "The name of the Dockerfile should be \u201cDockerfile\u201d indeed, more over check other sections of your submission like\n\nIs the GitHub repo public?\nDoes it have an MIT license?\nDoes it have a DockerFile?\nIs the Docker image accessible?\n"
+      },
+      {
+        "id": 596127,
+        "post_number": 3,
+        "username": "nayonika",
+        "created_at": "2025-02-16T16:23:55.760Z",
+        "like_count": 0,
+        "cooked": "Oh ok made the changes in Github. I hope submitting again is not required since the links and names are same."
+      },
+      {
+        "id": 596260,
+        "post_number": 4,
+        "username": "22f3000585",
+        "created_at": "2025-02-17T07:34:13.842Z",
+        "like_count": 0,
+        "cooked": "\nSir, i got this mail. I have checked that the repo is public and already has a Dockerfile.\nI have renamed the \u2018LICENSE\u2019 file as \u2018MIT LICENSE\u2019."
+      },
+      {
+        "id": 596640,
+        "post_number": 6,
+        "username": "satviksawhney",
+        "created_at": "2025-02-18T08:30:13.921Z",
+        "like_count": 0,
+        "cooked": "Sir, please consider it we have spent a lot of time, in my case just the d in Dockerfile was small that too on remote repository. On my local repository it was Dockerfile only I even have a published docker image as verified by you autated script only. The name of the file on remote repository did not change even after commit it through my local repo, once I read the mail in morning it was only then I realised it wasn\u2019t changed on GitHub repo.\nSir I understand the deadline has passed and I am not asking for a resubmission, I am just asking to consider the already submitted work, just that. It would be really helpful. I just have one commit on my repo that too \u201cRename dockerfile to Dokerfile\u201d . Sir please attest consider what we have already submitted. I have made no changes as you can verify it too.\nSir it is a humble request to please consider it.\nWarm Regards,\nSatvik Sawhney\n23f2003680\nScreenshot 2025-02-18 at 1.53.10 PM1889\u00d7467 54 KB"
+      }
+    ]
+  }
+}

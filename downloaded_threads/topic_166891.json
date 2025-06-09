@@ -1,0 +1,25 @@
+{
+  "id": 166891,
+  "title": "Regarding Github Mail For Project",
+  "slug": "regarding-github-mail-for-project",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 594226,
+        "post_number": 1,
+        "username": "23f1001236",
+        "created_at": "2025-02-13T02:19:53.249Z",
+        "like_count": 0,
+        "cooked": "Is it important to use an IITM mail ID in GitHub for the project?\n@carlton"
+      },
+      {
+        "id": 594777,
+        "post_number": 2,
+        "username": "carlton",
+        "created_at": "2025-02-14T05:12:27.093Z",
+        "like_count": 0,
+        "cooked": "Currently we do not have any explicit policy regarding requiring IITM email as the github profile name or the github repo owner.\nWe DO however require you to use your IITM email when submitting the project submission form.\nWe are clarifying with operations at the moment if this arrangement satisfies their requirements. If it changes we will make a general announcement via email, portal and discourse.\n(we do not expect the current requirements of github to change)\nKind regards"
+      }
+    ]
+  }
+}

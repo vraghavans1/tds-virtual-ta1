@@ -1,0 +1,169 @@
+{
+  "id": 171141,
+  "title": "Tds-official-Project1-discrepencies",
+  "slug": "tds-official-project1-discrepencies",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 612319,
+        "post_number": 1,
+        "username": "Jivraj",
+        "created_at": "2025-03-28T18:34:41.099Z",
+        "like_count": 0,
+        "cooked": "Please post any discrepancies related to project1.\n@carlton\nWho were evaluated? How did we decide what to evaluate?\nAll the image ids we evaluated were what you submitted to us. This is the list of docker repos that was given to us by @s.anand as the official list that met all the pre-requisites of Project 1. Therefore we will only evaluate those on this list who are eligible for evaluation with the repos you gave us.\nFor clarity. Your docker repo gets a unique id every time it is changed. We will ONLY evaluate the image id which was present at the time of the docker repo being pulled. This acts as a time stamped frozen version of your repo. No other image id will be evaluated.\nHow to fix bugs in our scripts\nCreate Pull requests to Jivraj-18/tds-jan25-project1 .\nDocker Image Architecture Issue Report\nIf your Docker image was run on the wrong architecture, please fill out this form:\nSubmit Report\nBug fixes\nIf you find bugs in our evaluation scripts, you might benefit from more marks because of the bug fix. So it is in your interest to look through our scripts and logs and identify bugs or anomalies. You might just go from 0 to heros.\nKind regards,\nTDS Team"
+      },
+      {
+        "id": 612320,
+        "post_number": 2,
+        "username": "Jivraj",
+        "created_at": "2025-03-28T18:35:12.862Z",
+        "like_count": 0,
+        "cooked": ""
+      },
+      {
+        "id": 612327,
+        "post_number": 3,
+        "username": "23f2004912",
+        "created_at": "2025-03-28T19:03:42.095Z",
+        "like_count": 0,
+        "cooked": "What is the highest mark anyone has scored? Is it 22/20\n@Carlton?"
+      },
+      {
+        "id": 612331,
+        "post_number": 4,
+        "username": "23f2005702",
+        "created_at": "2025-03-28T19:11:04.307Z",
+        "like_count": 0,
+        "cooked": "How come me and my group used same code but some got 10 some 11 some 12?"
+      },
+      {
+        "id": 612332,
+        "post_number": 5,
+        "username": "Yogesh1",
+        "created_at": "2025-03-28T19:11:39.267Z",
+        "like_count": 0,
+        "cooked": "@carlton Please make clear what the average marks are, what highest marks are, and how the project will be evaulated.\nWe are very close to the end semester exam, and we are still not clear on assignment and project marks. It is a bit frustrating to plan in such circumstances."
+      },
+      {
+        "id": 612333,
+        "post_number": 6,
+        "username": "carlton",
+        "created_at": "2025-03-28T19:12:51.933Z",
+        "like_count": 0,
+        "cooked": "You have to see the logs for that. We have shared the logs. Everyone was graded by the exact same code, so there is no partiality. Your code did not produce consistent results."
+      },
+      {
+        "id": 612334,
+        "post_number": 7,
+        "username": "22f3002933",
+        "created_at": "2025-03-28T19:14:57.376Z",
+        "like_count": 0,
+        "cooked": "I have noticed that my image was run on a x86_64 architecture ( I can see my email in the logs shared ) whereas I built this docker image on my mac which is ARM. This is why I can see that my docker image never ran properly and threw the exec format error.\nThis was never mentioned on which architecture machine, our images will be evaluated. I request that my evaluation be done again on the right machine."
+      },
+      {
+        "id": 612335,
+        "post_number": 8,
+        "username": "22f2001389",
+        "created_at": "2025-03-28T19:15:19.619Z",
+        "like_count": 0,
+        "cooked": "My evaluation log file is missing, although I followed all the steps to generate the docker image correctly, it\u2019s showing the server didn\u2019t start for 5 minutes but when I uploaded it, it was working fine. Please help me out sir, I worked hard on the project. I\u2019ll get a zero, but I made the submissions correctly. Some other student also got the \u201cserver didn\u2019t start in 5 minutes\u201d but he has an evaluation log file. Please kindly help me out. My roll no. is 22f2001389"
+      },
+      {
+        "id": 612336,
+        "post_number": 9,
+        "username": "carlton",
+        "created_at": "2025-03-28T19:16:38.027Z",
+        "like_count": 0,
+        "cooked": "We will check and rerun on arm if we ran it on the wrong emulation."
+      },
+      {
+        "id": 612338,
+        "post_number": 11,
+        "username": "22f2001389",
+        "created_at": "2025-03-28T19:19:15.240Z",
+        "like_count": 0,
+        "cooked": "Any suggestions for my case sir ? I\u2019m really tensed."
+      },
+      {
+        "id": 612339,
+        "post_number": 12,
+        "username": "21f2000709",
+        "created_at": "2025-03-28T19:20:38.723Z",
+        "like_count": 0,
+        "cooked": "\n\n\n 22f3002933:\n\nI have noticed that my image was run on a x86_64 architecture ( I can see my email in the logs shared ) whereas I built this docker image on my mac which is ARM. This is why I can see that my docker image never ran properly and threw the exec format error.\nThis was never mentioned on which architecture machine, our images will be evaluated. I request that my evaluation be done again on the right machine.\n\n\n@carlton  same issue, My image was also run on a x86_64 architecture. I too built on my mac which is ARM (M1 Processor). I too can see that my docker image never ran properly and threw the exec format error  and  Evaluation log file is MISSING.\nActually my image was run on x86_64 architecture as it was present in that log file and because of the wrong architecture it never started.\nI also request that my evaluation be done again on the right machine.\nScreenshot 2025-03-29 at 12.51.59 AM1613\u00d7182 19.1 KB\nEven just now I tried running the exact image:\nScreenshot 2025-03-29 at 12.53.35 AM1220\u00d7169 25.8 KB\nIt is running fine on my macbook air m1 (ARM)\n@Jivraj @Saransh_Saini"
+      },
+      {
+        "id": 612341,
+        "post_number": 13,
+        "username": "23f1002056",
+        "created_at": "2025-03-28T19:26:23.746Z",
+        "like_count": 0,
+        "cooked": "\n\n\n 22f2001389:\n\nuploaded\n\n\nFacing the same issue sir, kindly look into it. I had made sure all the files including the docker file were working perfectly fine. Please help me out.\nRoll no. 23f1002056"
+      },
+      {
+        "id": 612342,
+        "post_number": 14,
+        "username": "22f1000703",
+        "created_at": "2025-03-28T19:27:25.982Z",
+        "like_count": 0,
+        "cooked": "My evaluation log file is missing in report provided. It says tasksA was not found. but I have submitted tasksA in my project file. Also it says server didnt start for 5 mins but for me image was working fine. please kindly help me out. I have made submissions correctly. I request for re evaluation of my project. my roll no is 22f1000703"
+      },
+      {
+        "id": 612343,
+        "post_number": 15,
+        "username": "22f3003083",
+        "created_at": "2025-03-28T19:30:09.940Z",
+        "like_count": 0,
+        "cooked": "Respected,\nI haven\u2019t received any mail yet regarding the TDS Project 1 marks.\nPlease look into it.\nRegards,\nSoham"
+      },
+      {
+        "id": 612344,
+        "post_number": 16,
+        "username": "AYUSH_SINGH",
+        "created_at": "2025-03-28T19:37:05.650Z",
+        "like_count": 0,
+        "cooked": "My evaluation log file is missing.\nThe 2 other log files i\u2019m given doesnt have my email inside it listed.\nthe Image id which is given in the MAIL is not present in my docker desktop, my project\u2019s docker image is listed in docker desktop, which doesnot matches the image id given in the MAIL,\nWhat was evaluated? How it was evaluated?\nThis is the id of the docker image that was evaluated: 0ade87d1bf07\nMy terminal shows 2 images as last, with respective image ids. I am not sure which one is the real, so please check with both the ids.\ntds-project-1              latest    c854274f078d   5 weeks ago    1.38GB\nayush6871/fastapi-agent    latest    27e8375b0ab1   6 weeks ago    1.66GB\nI am requesting to look into this case. I think there has been some mistake somewhere.\n21f3001194"
+      },
+      {
+        "id": 612346,
+        "post_number": 17,
+        "username": "Adithya",
+        "created_at": "2025-03-28T19:42:12.154Z",
+        "like_count": 0,
+        "cooked": "I have also built the image on Mac and facing the same issue\nexec format error\nIt is running fine on my Macbook Pro M1\n@carlton @Saransh_Saini @Jivraj"
+      },
+      {
+        "id": 612347,
+        "post_number": 18,
+        "username": "22f2001389",
+        "created_at": "2025-03-28T19:44:32.573Z",
+        "like_count": 0,
+        "cooked": "Sir I have noticed a technical glitch for the docker issue, wherein I mistakenly uploaded the wrong docker image link so kindly please kindly re evaluate it."
+      },
+      {
+        "id": 612349,
+        "post_number": 19,
+        "username": "Abhay222",
+        "created_at": "2025-03-28T19:53:44.965Z",
+        "like_count": 0,
+        "cooked": "Sir I haven\u2019t received any mail regarding this Project1 marks. @Jivraj @carlton"
+      },
+      {
+        "id": 612350,
+        "post_number": 20,
+        "username": "21f3000512",
+        "created_at": "2025-03-28T19:54:41.344Z",
+        "like_count": 0,
+        "cooked": "@carlton Sir , my Docker image is built on Macbook M1 which as you know uses ARM64 architecture . But evaluated with x86_64 which caused the exec format error due to cross platform compatibility issues . I am kindly requesting you to re-evaluate the project once again ."
+      },
+      {
+        "id": 612351,
+        "post_number": 21,
+        "username": "HarshJaiswal",
+        "created_at": "2025-03-28T20:04:57.116Z",
+        "like_count": 0,
+        "cooked": "This is the id of the docker image that was evaluated: d0f14a872042  , but i had never provided this docker image then how it get evaluated, also none of the docker image created by me has this id.\nPlease, look over it.\nRegards,\nHarsh Jaiswal\n23f1001995"
+      }
+    ]
+  }
+}

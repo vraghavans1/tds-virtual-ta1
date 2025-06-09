@@ -1,0 +1,57 @@
+{
+  "id": 163765,
+  "title": "Score keeps resetting to 0",
+  "slug": "score-keeps-resetting-to-0",
+  "post_stream": {
+    "posts": [
+      {
+        "id": 580835,
+        "post_number": 1,
+        "username": "24f2006531",
+        "created_at": "2025-01-17T06:30:48.816Z",
+        "like_count": 0,
+        "cooked": "Despite saving multiple times, my score keeps resetting to zero. Should I refill the answers for all the questions before saving again? Could this issue also be caused by accessing the assignment from multiple devices?"
+      },
+      {
+        "id": 580844,
+        "post_number": 2,
+        "username": "carlton",
+        "created_at": "2025-01-17T06:42:42.190Z",
+        "like_count": 0,
+        "cooked": "Hi Shalini,\nWe are aware of the issue and @s.anand is working on a solution. The temporary fix is to just reenter all the answers before hitting the Save button. Thanks for the reminder, please bear with the inconvenience while its being fixed.\nThe last submission is always saved. So please make sure that your last submission contains all the answers for all the questions.\nKind regards"
+      },
+      {
+        "id": 581451,
+        "post_number": 3,
+        "username": "GaURaVinDeX",
+        "created_at": "2025-01-18T05:02:22.594Z",
+        "like_count": 0,
+        "cooked": "Hello,\nI am also facing the same issue. In my last submission the score was 7.25. Right now it is showing 0. The problem is i had few questions remaining to solve and i dont know which ones now. All of them r showing empty in the solution box. Also i didnt write my answers someplace else, so i would have to solve all the questions again? And also if i just for example for testing submit solution of 1 question now then my score would get reduced from 7.25 to the marks of that 1 question i submitted right?"
+      },
+      {
+        "id": 581945,
+        "post_number": 4,
+        "username": "shubham6",
+        "created_at": "2025-01-19T08:57:21.832Z",
+        "like_count": 0,
+        "cooked": "Saved multiple times on the graded website as well submitted yes on the course tab but the score keeps resetting to 0 with no progress saved"
+      },
+      {
+        "id": 581983,
+        "post_number": 7,
+        "username": "s.anand",
+        "created_at": "2025-01-19T12:23:34.273Z",
+        "like_count": 0,
+        "cooked": "@24f2006531 @GaURaVinDeX @shubham6\nPlease check this fix. It may solve your problem.\n\n\n\n\nGA1 - Development Tools - Discussion Thread [TDS Jan 2025] Tools in Data Science\n\n\n@23f2005067 @23f2003751 I added a \u201cRecent saves\u201d feature. \nThis will show the time and score for the last 3 times you saved. You can load from any of these. \n [image] \nDo remember to click the \u201cCheck\u201d button to calculate your score. That is not automatic. \nPlease check this out and let me know if there are any bugs. Thanks.\n  \n\n"
+      },
+      {
+        "id": 581989,
+        "post_number": 8,
+        "username": "shubham6",
+        "created_at": "2025-01-19T12:35:22.388Z",
+        "like_count": 0,
+        "cooked": "Much appreciated sir"
+      }
+    ]
+  }
+}
