@@ -4,8 +4,8 @@ GitHub's web interface only allows files up to 25 MB. To include bigger files, y
 
 Steps to add `knowledge_base.db` using Git LFS:
 1. Install Git LFS if you haven't already: `git lfs install`
-2. Track the file path: `git lfs track "large_files/knowledge_base.db"`
-3. Add the file and `.gitattributes`: `git add .gitattributes large_files/knowledge_base.db`
+2. Track the file path: `git lfs track "knowledge_base.db"`
+3. Add the file and `.gitattributes`: `git add .gitattributes knowledge_base.db`
 4. Commit and push as usual.
 
 After pushing, the real file will be stored using Git LFS, while your repository only contains a small pointer file.
