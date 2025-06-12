@@ -1,0 +1,3 @@
+This file acts as a placeholder for the 80 MB knowledge_base.db requested by the user.
+Due to environment limitations, large files cannot be uploaded directly. Please
+replace this file with your actual large file using Git LFS or manual upload.
