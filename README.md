@@ -11,3 +11,4 @@ This project exposes a simple FastAPI application used to query a small knowledg
 
 Requests are handled by `app.py` and the service reads from `knowledge_base.db`.
 Make sure to populate the database using `preprocess.py` before querying.
+If your knowledge_base.db exceeds GitHub's 25 MB upload limit, see large_files/README.md for using Git LFS.
